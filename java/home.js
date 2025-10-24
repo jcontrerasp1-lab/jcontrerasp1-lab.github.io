@@ -174,13 +174,13 @@ document.addEventListener('DOMContentLoaded', function() {
         
         switch(videoId) {
             case "video1":
-                videoSrc = "jcontrerasp1-lab.github.io/Videos/mil.mp4";
+                videoSrc = "Videos/Ash y Snorlax se reencuentran - JoSeCArLoS 24 - JoseC24 (144p, h264).mp4";
                 break;
             case "video2":
-                videoSrc = "Videos/nsqk.mp4";
+                videoSrc = "Videos/Ash y Snorlax se reencuentran - JoSeCArLoS 24 - JoseC24 (144p, h264).mp4";
                 break;
             case "video3":
-                videoSrc = "Videos/cel.mp4";
+                videoSrc = "Videos/Ash y Snorlax se reencuentran - JoSeCArLoS 24 - JoseC24 (144p, h264).mp4";
                 break;
         }
         
@@ -223,4 +223,5 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
 });
+
 
