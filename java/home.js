@@ -174,13 +174,13 @@ document.addEventListener('DOMContentLoaded', function() {
         
         switch(videoId) {
             case "video1":
-                videoSrc = "videos/mil.mp4";
+                videoSrc = "Videos/mil.mp4";
                 break;
             case "video2":
-                videoSrc = "videos/nsqk.mp4";
+                videoSrc = "Videos/nsqk.mp4";
                 break;
             case "video3":
-                videoSrc = "videos/cel.mp4";
+                videoSrc = "Videos/cel.mp4";
                 break;
         }
         
@@ -221,4 +221,5 @@ document.addEventListener('DOMContentLoaded', function() {
             mostrarVideo(videoId, titulo);
         });
     });
+
 });
