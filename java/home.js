@@ -174,13 +174,13 @@ document.addEventListener('DOMContentLoaded', function() {
         
         switch(videoId) {
             case "video1":
-                videoSrc = "Videos/Ash y Snorlax se reencuentran - JoSeCArLoS 24 - JoseC24 (144p, h264).mp4";
+                videoSrc = "videos/mil.mp4";
                 break;
             case "video2":
-                videoSrc = "Videos/Ash y Snorlax se reencuentran - JoSeCArLoS 24 - JoseC24 (144p, h264).mp4";
+                videoSrc = "videos/nsqk.mp4";
                 break;
             case "video3":
-                videoSrc = "Videos/Ash y Snorlax se reencuentran - JoSeCArLoS 24 - JoseC24 (144p, h264).mp4";
+                videoSrc = "videos/cel.mp4";
                 break;
         }
         
@@ -221,7 +221,4 @@ document.addEventListener('DOMContentLoaded', function() {
             mostrarVideo(videoId, titulo);
         });
     });
-
 });
-
-
