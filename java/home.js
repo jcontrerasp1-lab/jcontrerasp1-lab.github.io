@@ -174,7 +174,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         switch(videoId) {
             case "video1":
-                videoSrc = "Videos/mil.mp4";
+                videoSrc = "jcontrerasp1-lab.github.io/Videos/mil.mp4";
                 break;
             case "video2":
                 videoSrc = "Videos/nsqk.mp4";
@@ -223,3 +223,4 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
 });
+
